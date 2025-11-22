@@ -93,10 +93,4 @@ Open an [issue](https://github.com/Kamaleshkamalesh2005/erp-manual-comparison-to
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **Made with ❤️ using Python, Streamlit, Pandas, and deployed on Netlify**
